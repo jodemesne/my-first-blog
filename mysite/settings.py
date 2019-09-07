@@ -25,7 +25,7 @@ SECRET_KEY = '9^+_e4k$2h&z@@z^p4uqg3j%cj9(d98zr2)-zy^_5-d(v1!=0b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'jennswebdesign.online']
+ALLOWED_HOSTS = ['127.0.0.1', 'django.jennswebdesign.online']
 
 
 # Application definition
